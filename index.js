@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.listen(PORT, () => {
     console.log(`
-Don't Forgot To Give Star ᎻႮΝͲᎬᎡ-ХᎷᎠ 
+Don't Forgot To Give Star sir bravin 
 
  Server running on http://localhost:` + PORT)
 })
