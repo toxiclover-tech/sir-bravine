@@ -77,28 +77,28 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "HUNTER-XMD~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*ᎻᎬᏞᏞϴ ᎻႮΝͲᎬᎡ-ХᎷᎠ ႮՏᎬᎡՏ! 👋🏻* 
+                        let desc = `*TOXIC LOVER-V2 XMD ႮՏᎬᎡՏ! 👋🏻* 
 
 > Do not share your session id with your gf 😂.
 
- * ͲᎻᎪΝᏦ ᎽϴᎡ ҒϴᎡ ႮՏᏆΝᏀ ᎻႮΝͲᎬᎡ-ХᎷᎠ 🚩* 
+ * ͲᎻᎪΝᏦ ᎽϴᎡ ҒϴᎡ ႮՏᏆΝᏀ toxic lover-v2 xmd 🚩* 
 
 > ᎫϴᏆΝ ᎷᎽ ᏟᎻᎪΝΝᎬᏞ :- ⤵️
  
-https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y
+https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
 
 ᎠϴΝͲ ҒϴᏀᎬͲ Ͳϴ ҒϴᎡᏦ ᎡᎬᏢϴ ⬇️
 
-https://github.com/Obedweb/Hunter-Xmd1
+https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
 
-> *© Powered BY ϴᏴᎬᎠ ͲᎬᏟᎻ 🖤*`; 
+> *© Powered BY sir bravin 🖤*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ϴᏴᎬᎠ ͲᎬᏟᎻ",
-thumbnailUrl: "https://files.catbox.moe/c82aaa.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y",
+title: "sir bravin",
+thumbnailUrl: "https://files.catbox.moe/7aey0i.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -112,9 +112,9 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᎻႮΝͲᎬᎡ-ХᎷᎠ",
-thumbnailUrl: "https://files.catbox.moe/c82aaa.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y",
+title: "sir bravin",
+thumbnailUrl: "https://files.catbox.moe/jqo4l7.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
